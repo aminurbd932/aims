@@ -1,0 +1,7 @@
+Department
+................................
+setup-department-view
+setup-department-create
+setup-department-edit
+setup-department-delete
+setup-department-status

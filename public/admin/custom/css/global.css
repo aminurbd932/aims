@@ -1,0 +1,25 @@
+section.content-header h1.custom-breadcum{
+	border-bottom: 2px solid #ce6d6d;
+	padding-bottom: 10px;
+}
+
+section.custom-content{
+	padding: 0px 15px;
+}
+
+.required{color:#ec1919d1;}
+
+.save_top{
+	border-top: 1px dotted #8c7a7a;
+    padding-top: 7px;
+}
+
+div.form-group select{height: 30px;    padding: 4px 10px;}
+table.table select{height: 30px;    padding: 4px 10px;}
+
+div.form-group span.select2 ul li.select2-selection__choice{color:#000;}
+
+table.com_table thead tr th{
+	vertical-align: middle;
+	text-align: center;
+}
